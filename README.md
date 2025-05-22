@@ -2,6 +2,8 @@
 
 * I am a Backend Developer from [Costa Rica](https://www.youtube.com/watch?v=LXb3EKWsInQ) :costa_rica:
 
+* My Techstack: `.java`, `.cs`, `.py`, `.html`, `.js`, `.css`
+
 ## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tonycode2&theme=merko)](https://git.io/streak-stats)
