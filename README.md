@@ -1,13 +1,19 @@
-# Hi, I'm Anthony!
+# Hi, I'm Anthony 👋
 
-* I am a Backend Developer from [Costa Rica](https://www.youtube.com/watch?v=LXb3EKWsInQ) :costa_rica:
+Backend developer from Costa Rica 🇨🇷, focused on Java and distributed systems.
+Looking for remote backend roles.
 
-* My Techstack: `.java`, `.cs`, `.py`, `.html`, `.js`, `.css`
+## What I'm building
 
-## GitHub Stats
+- **[ledger-service](https://github.com/tonycode2/ledger-service)**: double-entry ledger and payments API with idempotency, concurrency control and the outbox pattern. *(in progress)*
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tonycode2&theme=merko)](https://git.io/streak-stats)
+## Tech
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonycode2)](https://github.com/anuraghazra/github-readme-stats)
+**Languages:** Java, Python, C#, SQL
+**Backend:** Spring Boot, Spring Data JPA, Spring Security, REST
+**Data & messaging:** PostgreSQL, Flyway, RabbitMQ / Kafka
+**Tools:** Docker, GitHub Actions, JUnit 5, Testcontainers, k6, Git
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonycode2)](https://github.com/anuraghazra/github-readme-stats)
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/aalvarezd2201/) · aalvarez_d@outlook.com
